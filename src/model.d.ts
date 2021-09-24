@@ -1,2 +1,2 @@
 
-export type IpAsArray = [number, number, number, number]
+export type IpAsOctets = [number, number, number, number]
